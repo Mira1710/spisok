@@ -1,0 +1,15 @@
+.h1{
+    width: 60px;
+    font-style: oblique;
+    color: brown;
+}
+.h2{
+    width: 30px;
+font-style: normal;
+color: bisque;
+}
+.spisok{
+    color: blue;
+    font-style: italic;
+    width: 16px;
+}
